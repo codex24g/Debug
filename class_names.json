@@ -1,0 +1,19 @@
+{
+    "AlfredTeng": {
+        "drink_preference": "Coffee",
+        "dietary_restrictions": "None"
+    },
+    "AndrewChong": {
+        "drink_preference": "Tea",
+        "dietary_restrictions": "Vegetarian"
+    },
+    "EmileSabastian": {
+        "drink_preference": "Milo",
+        "dietary_restrictions": "Walnuts"
+    },
+    "GordonHoi": {
+        "drink_preference": "Water",
+        "dietary_restrictions": "Gluten-Free"
+    }
+
+}
